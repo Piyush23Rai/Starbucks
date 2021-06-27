@@ -1,0 +1,7 @@
+pip install -U pip
+pip install imblearn
+pip install xgboost
+pip install pandas
+pip install seaborn
+pip install sklearn
+pip install scipy
